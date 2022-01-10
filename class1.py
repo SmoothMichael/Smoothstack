@@ -1,13 +1,13 @@
 import math
 
-# # principal
-# p = 100000
+# principal
+p = 100000
 
-# # rate
-# r = 0.03
+# rate
+r = 0.03
 
-# # length of payout
-# l = 103
+# length of payout
+l = 103
 
 
 def monthly_payment(p, r, l):
